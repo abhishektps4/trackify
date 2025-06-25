@@ -2,7 +2,7 @@
 
 **Trackify** is a lightweight and responsive **Progressive Web App (PWA)** for managing and visualizing daily expenses. With full offline support and clean visual analytics, it's designed for users who want a fast, intuitive, and secure way to track spending.
 
-![Trackify Screenshot](assets/trackify-screenshot.png) <!-- Replace with your actual screenshot path -->
+assets/trackify-screenshot.png
 
 ---
 
