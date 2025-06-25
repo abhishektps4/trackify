@@ -12,7 +12,6 @@
 - ✅ Add, edit, and delete expense records
 - 📅 Automatic timestamp for each transaction
 - 📊 Visual expense trends using **Chart.js**
-- 💡 Light/Dark mode toggle
 - 💾 Offline-first with **localStorage**
 - 📱 Fully installable as a PWA (manifest + service worker)
 - 🔒 No user login required — your data stays private on your device
