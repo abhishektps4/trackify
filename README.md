@@ -26,5 +26,5 @@
 - **PWA technologies**: Service Worker + Web App Manifest
 
 ---
-🌐 Live Demo:  https://abhishektps4.github.io/trackify/
-🔗 
+🌐 Live Demo 🔗:  https://abhishektps4.github.io/trackify/
+ 
